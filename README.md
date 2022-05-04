@@ -1,2 +1,10 @@
-# formation_evaluation
-geology, reservoir fluids, geophysics, petrophysics, well logging, well testing
+# formation_evaluation:
+
+- geology
+- reservoir fluids
+- geophysics
+- petrophysics
+- well logging
+- well testing
+
+related lecture notes
