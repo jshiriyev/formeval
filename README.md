@@ -1,10 +1,9 @@
-# formation_evaluation:
+# Formation Evaluation
 
+Lecture notes:
 - geology
 - reservoir fluids
 - geophysics
 - petrophysics
 - well logging
 - well testing
-
-related lecture notes
